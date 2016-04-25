@@ -1,0 +1,38 @@
+{
+  "name": "reuseable-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "reuseable-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/reuseable-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "fb2aa329c2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fb2aa329c2601edd1a84df6495f6ebf8f7d418bf"
+  },
+  "_source": "git://github.com/jaelee125/reuseable-element.git",
+  "_target": "master",
+  "_originalSource": "jaelee125/reuseable-element",
+  "_direct": true
+}
